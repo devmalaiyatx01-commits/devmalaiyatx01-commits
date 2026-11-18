@@ -11,7 +11,7 @@ I build AI agents, web data pipelines and internal tools that run in production,
 
 | Project | What it is | Links |
 |---|---|---|
-| [RegWatch](https://github.com/devmalaiyatx01-commits/regwatch) | Monitors 10 health authority sources in 4 languages twice a day: change detection, Claude classification, labelled eval set | [Live digest](https://devmalaiyatx01-commits.github.io/regwatch/) |
+| [RegWatch](https://github.com/devmalaiyatx01-commits/regwatch) | Monitors 11 health authority sources in 4 languages twice a day: change detection, Claude classification, labelled eval set | [Live digest](https://devmalaiyatx01-commits.github.io/regwatch/) |
 | [LiveOps Agent](https://github.com/devmalaiyatx01-commits/liveops-agent) | Agent that reads mobile-game A/B tests and decides ship, hold or investigate, with guardrails in code and planted-truth evals | |
 | [Quotation Tool](https://github.com/devmalaiyatx01-commits/quotation-tool-case-study) | Case study: the internal tool I built and shipped at ILDL (FastAPI, PostgreSQL, Oracle Cloud) | |
 | [Heads Up](https://github.com/devmalaiyatx01-commits/pokerTracker) | No-limit hold'em against 5 AI personalities with a player-analytics HUD | [Play](https://devmalaiyatx01-commits.github.io/pokerTracker/) |

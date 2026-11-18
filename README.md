@@ -12,6 +12,7 @@ I build AI agents, web data pipelines and internal tools that run in production,
 | Project | What it is | Links |
 |---|---|---|
 | [Quotation Tool](https://github.com/devmalaiyatx01-commits/quotation-tool) | Quoting platform I built and shipped at ILDL, in daily production use: PDF parsing, rules engine, exports (FastAPI, PostgreSQL, vanilla JS) | |
+| [Carbon Project Tracker](https://github.com/devmalaiyatx01-commits/carbon-project-tracker) | Excel unit-economics model and field KPI tracker for nature-based carbon projects, with an executive memo (simulated data) | [Dashboard](https://devmalaiyatx01-commits.github.io/carbon-project-tracker/) |
 | [RegWatch](https://github.com/devmalaiyatx01-commits/regwatch) | Monitors 11 health authority sources in 4 languages twice a day: change detection, Claude classification, labelled eval set | [Live digest](https://devmalaiyatx01-commits.github.io/regwatch/) |
 | [LiveOps Agent](https://github.com/devmalaiyatx01-commits/liveops-agent) | Agent that reads mobile-game A/B tests and decides ship, hold or investigate, with guardrails in code and planted-truth evals | |
 | [Heads Up](https://github.com/devmalaiyatx01-commits/pokerTracker) | No-limit hold'em against 5 AI personalities with a player-analytics HUD | [Play](https://devmalaiyatx01-commits.github.io/pokerTracker/) |
